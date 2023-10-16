@@ -1,0 +1,30 @@
+If you want to add your project folders to a Git repository directly on GitHub without using command-line Git, you can do so using the GitHub web interface. Here are the steps:
+
+Create a GitHub Repository:
+
+Go to the GitHub website (https://github.com) and log in to your account.
+
+Click on the "+" sign in the upper right corner of the page and select "New repository."
+
+Fill in the repository name, description, and other settings as needed.
+
+Choose whether the repository should be public or private, depending on your needs.
+
+Click the "Create repository" button.
+
+Upload Your Project Folders:
+
+On the new repository's page, you'll find a section labeled "Quick setup." You'll see options for creating a new repository or pushing an existing repository from the command line. However, you want to directly upload your project folders, so ignore these options.
+
+Click on the "Upload files" button, which is located near the bottom of the page.
+
+In the file upload interface, drag and drop your project folders or click the "Choose your files" button to browse your local files and select the folders you want to upload.
+
+You can also include a commit message describing the initial upload.
+
+Once you've added your project folders, click the "Commit changes" button.
+Commit Your Changes:
+After you commit your changes, GitHub will process the files and add them to your repository.
+View Your Project:
+You'll now see your project folders and files in the GitHub repository.
+Please note that this method is suitable for small projects. If you have a large project with many files or want to take advantage of advanced Git features, using Git on the command line or through a Git GUI tool is recommended
